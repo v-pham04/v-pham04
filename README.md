@@ -1,6 +1,7 @@
 # Hi, I'm Victoria 👋
 
 I am a Cloud and Systems Engineer focused on AWS infrastructure, Linux systems, Terraform, GitHub Actions, Docker, CI/CD, and DevOps automation.
+**Live Portfolio:** [victoriap-portfolio.vercel.app](https://victoriap-portfolio.vercel.app)
 
 ## Current Focus
 
@@ -29,6 +30,3 @@ AI-assisted workflow that reviews infrastructure pull requests and flags risky c
 ## Skills
 
 AWS | Terraform | Linux | GitHub Actions | Docker | Bash | Python | CI/CD | IAM | VPC | EKS | DNS | Security
-
-
-**Live Portfolio:** [victoriap-portfolio.vercel.app](https://victoriap-portfolio.vercel.app)
